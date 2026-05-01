@@ -32,7 +32,7 @@ ScreenAI is an AI-powered HR screening tool that transforms how hiring teams eva
 
 ## 🖥️ Screenshots
 
-> _Add your screenshots here after running the project_
+> ![alt text](<Screenshot 2026-05-01 at 10.24.04 PM.png>)
 
 ---
 
@@ -84,7 +84,7 @@ ScreenAI/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ScreenAI.git
+git clone https://github.com/jatt-singh/ScreenAI.git
 cd ScreenAI
 ```
 
@@ -148,11 +148,6 @@ HR decides: Contact ✅ or Skip ❌
 - [x] PDF resume upload and parsing
 - [x] AI chat as candidate
 - [x] JD match score with skill breakdown
-- [ ] Multi-resume comparison
-- [ ] Interview report generation (PDF export)
-- [ ] Voice interview mode
-- [ ] Candidate ranking dashboard
-- [ ] Email integration to contact shortlisted candidates
 
 ---
 
@@ -165,12 +160,6 @@ Contributions are welcome! Feel free to:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — feel free to use, modify and distribute.
 
 ---
 
